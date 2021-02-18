@@ -1,0 +1,15 @@
+body {
+  /*Colors*/
+  --background-card: rgba(231, 235, 245, 1);
+  --background:rgba(216, 221, 230, 1);
+
+  /*Shadows*/
+  --shadow-out:5px 5px 10px 1px rgb(184, 184, 184),   -3px -3px 5px 0.5px rgb(255, 255, 255);
+
+
+  background-color:var(--background);
+
+  margin: 0;
+  padding: 0;
+
+}

@@ -1,0 +1,15 @@
+
+.container{
+    display: flex;
+    
+    width: 250px;
+    height:90vh;
+
+    background-color: var(--background-card);
+
+    border-radius: 20px;
+
+    box-shadow: var(--shadow-out);
+
+
+}
